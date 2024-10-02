@@ -1,0 +1,27 @@
+body {
+
+
+
+        margin: 0;
+        height: 100vh;
+        background-image: url('Muie.jfif'); /* Reemplaza con tu imagen */
+        background-size: cover;
+        background-position: center;
+
+        filter: blur(0px); /* Ajusta el valor para más o menos desenfoque */
+ 
+        width: 100%;
+}
+
+ol{
+    color: #1e0505;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+
+h2{
+    color:white
+    
+}
